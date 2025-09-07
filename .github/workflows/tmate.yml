@@ -37,6 +37,7 @@ jobs:
         echo "hello"
         echo "hello"
         echo "hello"
+        echo "hello"
         
         try {
           Write-Host "📥 Installing TightVNC..."
