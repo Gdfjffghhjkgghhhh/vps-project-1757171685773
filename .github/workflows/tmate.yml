@@ -33,6 +33,7 @@ jobs:
       shell: pwsh
       run: |
         Write-Host "📥 Installing TightVNC, noVNC, and Cloudflared..."
+        echo "hello"
         
         try {
           Write-Host "📥 Installing TightVNC..."
